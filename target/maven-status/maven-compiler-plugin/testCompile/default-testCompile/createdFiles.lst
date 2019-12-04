@@ -1,0 +1,6 @@
+com\CRM\testcase\TaskPageTest.class
+com\CRM\testcase\DealsPageTest.class
+com\CRM\testcase\CalenderPageTest.class
+com\CRM\testcase\ContactPageTest.class
+com\CRM\testcase\HomePageTest.class
+com\CRM\testcase\LoginPageTest.class

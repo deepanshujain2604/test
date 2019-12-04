@@ -1,0 +1,13 @@
+com\CRM\Pages\LoginPage.class
+com\CRM\Utils\SelectDropdown.class
+com\CRM\Pages\DealsPage.class
+com\CRM\Utils\WebEventListener.class
+com\CRM\configuration\configReader.class
+com\CRM\Pages\ContactPage.class
+com\CRM\Utils\HandleAlert_CaptureMsg.class
+com\CRM\Pages\HomePage.class
+com\CRM\ExtentReportListener\ExtentReportListener.class
+com\CRM\Pages\TaskPage.class
+com\CRM\Pages\CalenderPage.class
+com\CRM\BaseClass\BaseClass.class
+com\CRM\Utils\TestDataExcel.class
